@@ -1,0 +1,23 @@
+---
+title: "Milestone2"
+author: "Jakeschonberger"
+date: "9/19/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+**Project 1:** Organ Donations and Transplants 
+
+*Pros:* I had done a project realted to Organ Transplantation, and generally think that this type of data, and any analysis looking at the process is important. The system is extremely complex, and there are certainly areas in which the inefficiencies could cause serious issues (death, disposal of usable organs etc.) The data here shows a good general trend about the number of donations and number of transplants taken place. It also interestingly shows Spain as the highest donations / transplants PMP. Choice of graphs for the simple metrics were ok.
+
+*Cons:* While the topline data is interesting, the project on the whole does not allow for critical analysis or comparison of the presented data. Being able to compare countries beyond just volume of transplants & donations would be usefull. Furthermore, any demographic, spatial or geographic information embedded in the analysis would also be usefull in drawing conclusions. There could have been more diversity in the presentation of data.
+
+**Project 2:** Asylum Seekers by Country
+
+*Pros:* As with the Organ analysis, the data here shows very important trends related to global transitions of populations. Theoretically this makes it easy to see and understand where asylum seekers are coming from, and at what rate they are accepted or rejected. The combination of column charts and mapped data is a nice touch that shows geographically how the data is sourced. 
+
+*Cons * The analysis is structured in a way that is difficult to use beyond one-off comparisons or look ups. For example, on the "Decisions" tab, it would be nice to be able to compare two or more countries to each other. Likewise, on the Application Maps tab it would be nice to be able to view a temporal relationship of seekers and accepted applications. 
